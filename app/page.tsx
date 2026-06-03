@@ -364,6 +364,7 @@ export default function Home() {
               <div className="space-y-2 sm:space-y-3 text-sm text-slate-300">
                 <p><strong className="text-white">Email:</strong> support.jivra@gmail.com</p>
                 <p><strong className="text-white">WhatsApp:</strong> +91 75975 50730</p>
+                <p><strong className="text-white">Address:</strong> Cloud 9 Society, Raheja Sterling Road, Mohammed Wadi, Pune - 411060</p>
               </div>
               <div className="flex flex-wrap gap-2 sm:gap-3 text-sm text-slate-300">
                 <a href="https://linkedin.com/company/jivra" target="_blank" rel="noopener noreferrer" className="rounded-full border border-white/10 bg-white/5 px-4 py-2 transition hover:bg-white/10">LinkedIn</a>
