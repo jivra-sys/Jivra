@@ -408,7 +408,7 @@ export default function Home() {
             <div className="flex flex-wrap gap-4 sm:gap-6 text-slate-400">
               <a href="#services" className="transition hover:text-white">Services</a>
               <a href="#process" className="transition hover:text-white">Process</a>
-              <a href="#about" className="transition hover:text-white">About</a>
+              <a href="/about" className="transition hover:text-white">About</a>
               <a href="#contact" className="transition hover:text-white">Contact</a>
             </div>
             <div className="flex flex-wrap gap-4 sm:gap-6 text-slate-400 mt-4 sm:mt-0">
