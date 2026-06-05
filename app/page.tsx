@@ -411,6 +411,11 @@ export default function Home() {
               <a href="#about" className="transition hover:text-white">About</a>
               <a href="#contact" className="transition hover:text-white">Contact</a>
             </div>
+            <div className="flex flex-wrap gap-4 sm:gap-6 text-slate-400 mt-4 sm:mt-0">
+              <a href="/privacy-policy" className="transition hover:text-white">Privacy Policy</a>
+              <a href="/terms-and-conditions" className="transition hover:text-white">Terms & Conditions</a>
+              <a href="/refund-policy" className="transition hover:text-white">Refund Policy</a>
+            </div>
           </div>
           <p className="mt-6 sm:mt-8 text-center text-slate-500 text-xs sm:text-sm">© 2026 Jivra. Crafted for ambitious teams.</p>
         </footer>
