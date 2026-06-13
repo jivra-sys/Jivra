@@ -368,7 +368,7 @@ export default function Home() {
               </div>
               <div className="flex flex-wrap gap-2 sm:gap-3 text-sm text-slate-300">
                 <a href="https://www.linkedin.com/company/jivra-company/" target="_blank" rel="noopener noreferrer" className="rounded-full border border-white/10 bg-white/5 px-4 py-2 transition hover:bg-white/10">LinkedIn</a>
-                <a href="https://twitter.com/jivra" target="_blank" rel="noopener noreferrer" className="rounded-full border border-white/10 bg-white/5 px-4 py-2 transition hover:bg-white/10">Twitter</a>
+                <a href="https://x.com/Jivra_Techno" target="_blank" rel="noopener noreferrer" className="rounded-full border border-white/10 bg-white/5 px-4 py-2 transition hover:bg-white/10">Twitter</a>
               </div>
             </div>
 
