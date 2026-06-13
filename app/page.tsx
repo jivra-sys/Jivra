@@ -367,7 +367,7 @@ export default function Home() {
                 <p><strong className="text-white">Address:</strong> Cloud 9 Society, Raheja Sterling Road, Mohammed Wadi, Pune - 411060</p>
               </div>
               <div className="flex flex-wrap gap-2 sm:gap-3 text-sm text-slate-300">
-                <a href="https://linkedin.com/company/jivra" target="_blank" rel="noopener noreferrer" className="rounded-full border border-white/10 bg-white/5 px-4 py-2 transition hover:bg-white/10">LinkedIn</a>
+                <a href="https://www.linkedin.com/company/jivra-company/" target="_blank" rel="noopener noreferrer" className="rounded-full border border-white/10 bg-white/5 px-4 py-2 transition hover:bg-white/10">LinkedIn</a>
                 <a href="https://twitter.com/jivra" target="_blank" rel="noopener noreferrer" className="rounded-full border border-white/10 bg-white/5 px-4 py-2 transition hover:bg-white/10">Twitter</a>
               </div>
             </div>
